@@ -1,4 +1,4 @@
-numero1= 4
-numero2=4
+numero1= input("ingrese un numero")
+numero2= input("ingrese un numero")
 
-print(numero1 + numero2)
+print(numero1 - numero2)
